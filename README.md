@@ -1,1 +1,1 @@
-REST API project for temperature measuremtns. 
+REST API project for temperature measurements. 
